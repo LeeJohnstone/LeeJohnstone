@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LeeJohnstone.
-- 👀 I’m interested in Water related modeling with Python/R. 
-- 🌱 I’m currently learning Python/R.
+- 👀 I’m interested in Water-related modelling with Python/R. 
 - 💞️ I’m looking to collaborate with anyone whos in the same boat. 
 - 📫 How to reach me linkedin.com/in/lee-johnstone-3a8308159
 
